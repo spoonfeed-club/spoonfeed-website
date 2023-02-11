@@ -8,7 +8,7 @@ export default function Home() {
 				alignItems="center"
 				justifyContent="center"
 				spacing="5"
-				px="24"
+				px="16"
 			>
 				<Heading color={"#FFFFE3"} fontWeight="black">
 					Tasty things are cooking 🥣!
